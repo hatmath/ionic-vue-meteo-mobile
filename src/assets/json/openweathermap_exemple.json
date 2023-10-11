@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -73.5878,
+    "lat": 45.5088
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "nuageux",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 290.14,
+    "feels_like": 289.64,
+    "temp_min": 288.56,
+    "temp_max": 291.76,
+    "pressure": 1025,
+    "humidity": 67
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.06,
+    "deg": 20
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1696257520,
+  "sys": {
+    "type": 1,
+    "id": 498,
+    "country": "CA",
+    "sunrise": 1696244000,
+    "sunset": 1696286042
+  },
+  "timezone": -14400,
+  "id": 6077243,
+  "name": "Montr\u00E9al",
+  "cod": 200
+}
